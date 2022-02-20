@@ -1,12 +1,12 @@
 h1 {
-    color:blue;
+  color: blue;
 }
 p {
-    color: chartreuse;
+  color: green;
 }
 
 table,
 th,
 td {
-    border: 1px solid black;    
+  border: 1px solid black;
 }
